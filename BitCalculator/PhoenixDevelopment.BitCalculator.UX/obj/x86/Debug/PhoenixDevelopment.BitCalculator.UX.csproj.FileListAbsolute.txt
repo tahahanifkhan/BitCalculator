@@ -1,0 +1,20 @@
+C:\Users\The Webers\Desktop\Zach's Projects\Projects\Active\BitCalculator\PhoenixDevelopment.BitCalculator.UX\bin\Debug\PhoenixDevelopment.BitCalculator.UX.exe
+C:\Users\The Webers\Desktop\Zach's Projects\Projects\Active\BitCalculator\PhoenixDevelopment.BitCalculator.UX\bin\Debug\PhoenixDevelopment.BitCalculator.UX.pdb
+C:\Users\The Webers\Desktop\Zach's Projects\Projects\Active\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\The Webers\Desktop\Zach's Projects\Projects\Active\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\PhoenixDevelopment.BitCalculator.UX.Main.resources
+C:\Users\The Webers\Desktop\Zach's Projects\Projects\Active\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\PhoenixDevelopment.BitCalculator.UX.Properties.Resources.resources
+C:\Users\The Webers\Desktop\Zach's Projects\Projects\Active\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\The Webers\Desktop\Zach's Projects\Projects\Active\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\The Webers\Desktop\Zach's Projects\Projects\Active\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\PhoenixDevelopment.BitCalculator.UX.exe
+C:\Users\The Webers\Desktop\Zach's Projects\Projects\Active\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\PhoenixDevelopment.BitCalculator.UX.pdb
+D:\Projects\BitCalculator\PhoenixDevelopment.BitCalculator.UX\bin\Debug\PhoenixDevelopment.BitCalculator.UX.exe.config
+D:\Projects\BitCalculator\PhoenixDevelopment.BitCalculator.UX\bin\Debug\PhoenixDevelopment.BitCalculator.UX.exe
+D:\Projects\BitCalculator\PhoenixDevelopment.BitCalculator.UX\bin\Debug\PhoenixDevelopment.BitCalculator.UX.pdb
+D:\Projects\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\PhoenixDevelopment.BitCalculator.UX.csproj.AssemblyReference.cache
+D:\Projects\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\PhoenixDevelopment.BitCalculator.UX.csproj.SuggestedBindingRedirects.cache
+D:\Projects\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\PhoenixDevelopment.BitCalculator.UX.Main.resources
+D:\Projects\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\PhoenixDevelopment.BitCalculator.UX.Properties.Resources.resources
+D:\Projects\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\PhoenixDevelopment.BitCalculator.UX.csproj.GenerateResource.cache
+D:\Projects\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\PhoenixDevelopment.BitCalculator.UX.csproj.CoreCompileInputs.cache
+D:\Projects\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\PhoenixDevelopment.BitCalculator.UX.exe
+D:\Projects\BitCalculator\PhoenixDevelopment.BitCalculator.UX\obj\x86\Debug\PhoenixDevelopment.BitCalculator.UX.pdb
